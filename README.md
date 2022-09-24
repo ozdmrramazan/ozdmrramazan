@@ -9,8 +9,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about  Python, Sql, Data Science, Machine Learning, Deep Learning, Image Processing
 - 📫 How to reach me: ramazan.ozdmr3x@gmail.com
 - [![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&link=link)]([link](https://ozdemirramazan.medium.com/)) 
--### Languages and Tools 
-- [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
-- [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Naereen/badges)
+- [linkedin]: [https://www.linkedin.com/in/ibrahim-talha-demir-4b513a1a9/](https://www.linkedin.com/in/ramazan-%C3%B6zdemir-557ab3196/)
 - 
 
