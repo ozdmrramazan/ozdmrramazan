@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🌱 I'm currently learning Deep Learning and computer vision
 - 💬 Ask me about  Python, Sql, Data Science, Machine Learning, Deep Learning, Image Processing
 - 📫 How to reach me: ramazan.ozdmr3x@gmail.com
-- [![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&link=link)]([link](https://ozdemirramazan.medium.com/)) 
-- [linkedin]: https://www.linkedin.com/in/ramazan-%C3%B6zdemir-557ab3196/
 - 
+- [![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&link=link)]([link](https://ozdemirramazan.medium.com/)) 
+
 
