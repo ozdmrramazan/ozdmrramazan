@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ramazan.ozdmr3x@gmail.com
 - 
 - [![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&link=link)]([link](https://ozdemirramazan.medium.com/)) 
-- https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white
+
 
 
 
