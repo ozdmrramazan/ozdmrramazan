@@ -10,5 +10,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ramazan.ozdmr3x@gmail.com
 - 
 - [![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&link=link)]([link](https://ozdemirramazan.medium.com/)) 
+[[params.social]]
+    icon = "linkedin"
+    icon_pack = "fa"
+    link = "https://www.linkedin.com/in/ramazan-%C3%B6zdemir-557ab3196/"
 
 
